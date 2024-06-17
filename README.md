@@ -4,6 +4,7 @@ Run the Llama 3 model (8-B or 70B) on your computer.
 ## Getting Started
 
 ### Installation
+0. Use GPU with GRAM > 20Gb (colab)
 
 1. Clone the repository:
 ```
